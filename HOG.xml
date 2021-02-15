@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<HOG type_id="opencv-object-detector-hog">
+  <winSize>
+    20 20</winSize>
+  <blockSize>
+    10 10</blockSize>
+  <blockStride>
+    5 5</blockStride>
+  <cellSize>
+    10 10</cellSize>
+  <nbins>9</nbins>
+  <derivAperture>1</derivAperture>
+  <winSigma>2.5000000000000000e+00</winSigma>
+  <histogramNormType>0</histogramNormType>
+  <L2HysThreshold>2.0000000000000001e-01</L2HysThreshold>
+  <gammaCorrection>1</gammaCorrection>
+  <nlevels>64</nlevels>
+  <signedGradient>1</signedGradient></HOG>
+</opencv_storage>
